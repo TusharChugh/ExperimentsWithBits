@@ -5,7 +5,9 @@ Alternative to run the project just execute 'gradle run' on command line
 
 Code details:
 1. Design Documents: ScrabbleWithStuff/design_documents/
+
 2. Core scrabble game: ScrabbleWithStuff/src/main/java/edu/cmu/cs/cs214/hw4/core/
+
 3. GUI: ScrabbleWithStuff/src/main/java/edu/cmu/cs/cs214/hw4/core/
 
 Instructions for placing tiles:
